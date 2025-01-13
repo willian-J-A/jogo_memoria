@@ -1,0 +1,13 @@
+6
+
+
+
+
+
+
+assets\cartas_img\carta1
+assets\cartas_img\carta3
+assets\cartas_img\carta4
+assets\cartas_img\carta7
+assets\cartas_img\carta10
+assets\cartas_img\carta12
