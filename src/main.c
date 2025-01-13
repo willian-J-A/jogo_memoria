@@ -7,7 +7,7 @@
 
 
 int main(){
-   teste();
+ 
 nomejogadores();
 copiabaralho();
 
